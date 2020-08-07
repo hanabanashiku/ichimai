@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ichimai.CSharp", "Ichimai.CSharp.csproj", "{BD1F7C7B-E35E-63A5-F530-5E49A980F5ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD1F7C7B-E35E-63A5-F530-5E49A980F5ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1F7C7B-E35E-63A5-F530-5E49A980F5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1F7C7B-E35E-63A5-F530-5E49A980F5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1F7C7B-E35E-63A5-F530-5E49A980F5ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
